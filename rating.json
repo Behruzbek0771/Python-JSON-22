@@ -1,12 +1,12 @@
 [
   {
-    "name": "Javohir",
-    "score": 65,
+    "name": "Laylo",
+    "score": 93,
     "rank": 1
   },
   {
-    "name": "Sardor",
-    "score": 78,
+    "name": "Nilufar",
+    "score": 91,
     "rank": 2
   },
   {
@@ -15,13 +15,13 @@
     "rank": 3
   },
   {
-    "name": "Nilufar",
-    "score": 91,
+    "name": "Sardor",
+    "score": 78,
     "rank": 4
   },
   {
-    "name": "Laylo",
-    "score": 93,
+    "name": "Javohir",
+    "score": 65,
     "rank": 5
   }
 ]
